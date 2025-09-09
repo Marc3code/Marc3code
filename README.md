@@ -24,10 +24,4 @@ Aqui estão algumas das minhas ferramentas favoritas para criar coisas incrívei
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ---
 
-## 📈 Minhas estatísticas no GitHub
-
-![Marc3code GitHub Stats](https://github-readme-stats.vercel.app/api?username=marc3code&show_icons=true&theme=radical)
-
----
-
-Se você curte tecnologia, programação ou só quer trocar uma ideia sobre projetos, fique à vontade para me seguir e explorar meus repositórios!  
+Fique à vontade para me seguir e explorar meus repositórios!  
