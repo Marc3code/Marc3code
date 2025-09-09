@@ -8,9 +8,9 @@ Sou desenvolvedor apaixonado por tecnologia, sempre em busca de aprender coisas 
 
 Aqui estão alguns dos projetos que considero mais relevantes em termos de aprendizado:
 
-- [LocaPay](https://github.com/marc3code/LocaPay) –
-- [ZooAkinator](https://github.com/marc3code/ZooAkinator) – 
-- [jogo da velha com web sockets](https://github.com/marc3code/web-sockets-tic-tac-toe) – 
+- [LocaPay](https://github.com/Marc3code/Locapay_) –
+- [ZooAkinator](https://github.com/Marc3code/ZooAkinator) – 
+- [Jogo da Velha Multiplayer com Web Sockets](https://github.com/Marc3code/WebSocket-TicTacToe) – 
 
 ---
 
