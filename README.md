@@ -1,6 +1,6 @@
 # Olá, meu nome é Marcos Terceiro 👋
 
-Sou desenvolvedor apaixonado por tecnologia, sempre em busca de aprender coisas novas e transformar ideias em projetos reais. Aqui no GitHub você vai encontrar meus projetos tanto pessoais, como da faculdade.  
+Sou estudante de computação e apaixonado por tecnologia, sempre em busca de aprender coisas novas e transformar ideias em projetos reais. Aqui no GitHub você vai encontrar meus projetos tanto pessoais, como provas e atividades da faculdade.
 
 ---
 
@@ -10,8 +10,9 @@ Aqui estão alguns dos projetos que considero mais relevantes em termos de apren
 
 - [LocaPay](https://github.com/Marc3code/Locapay_) –
 - [ZooAkinator](https://github.com/Marc3code/ZooAkinator) – 
-- [Jogo da Velha Multiplayer com Web Sockets](https://github.com/Marc3code/WebSocket-TicTacToe) – 
+- [Jogo da Velha Multiplayer com Web Sockets](https://github.com/Marc3code/WebSocket-TicTacToe) –
 
+  Mas você também pode conferir outros na minha lista de repositórios!
 ---
 
 ## 🛠 Tecnologias que mais uso
