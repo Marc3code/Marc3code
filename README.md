@@ -8,11 +8,11 @@ Sou estudante de computação e apaixonado por tecnologia, sempre em busca de ap
 
 Aqui estão alguns dos projetos que considero mais relevantes em termos de aprendizado:
 
-- [LocaPay](https://github.com/Marc3code/Locapay_) –
-- [ZooAkinator](https://github.com/Marc3code/ZooAkinator) – 
-- [Jogo da Velha Multiplayer com Web Sockets](https://github.com/Marc3code/WebSocket-TicTacToe) –
+- [LocaPay](https://github.com/Marc3code/Locapay_) – Um sistema de gestão de pagamentos de alugúeis por assinatura. A versão disponível nesse repositório é uma cópia da versão que está funcionando oficialmente por questões de segurança.
+- [ZooAkinator](https://github.com/Marc3code/ZooAkinator) – Um projeto da disciplina de IA, onde o objetivo era construir uma IA utilizando a abordagem simbólica. Junto com colegas de turma, desenvolvi esse jogo que "aprende" enquanto você joga.
+- [Jogo da Velha Multiplayer com Web Sockets](https://github.com/Marc3code/WebSocket-TicTacToe) – Desenvolvido como projeto para a disciplina de redes. O objetivo era aplicar os conhecimentos sobre web sockets adquiridos em sala de aula.
 
-  Mas você também pode conferir outros na minha lista de repositórios!
+  Confira outros projetos na minha lista de repositórios!
 ---
 
 ## 🛠 Tecnologias que mais uso
