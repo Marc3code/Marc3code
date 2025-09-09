@@ -10,7 +10,7 @@ Aqui estão alguns dos projetos que considero mais relevantes em termos de apren
 
 - [LocaPay](https://github.com/marc3code/LocaPay) –
 - [ZooAkinator](https://github.com/marc3code/ZooAkinator) – 
-- [](https://github.com/marc3code/projeto3) – 
+- [jogo da velha com web sockets](https://github.com/marc3code/web-sockets-tic-tac-toe) – 
 
 ---
 
